@@ -1,6 +1,9 @@
 # Morning-Shortcut
 This shortcut gives you a quick overview of your day ahead. It includes the weather, your calendar, some of the latest news headlines from your favorite news provider, and your travel time to work.
 
+#Download
+To download, either go to the link provided in the release, or go to the Morning page on [routine hub.](https://routinehub.co/shortcut/11976/)
+
 To use the shortcut
 ---------------------
 
