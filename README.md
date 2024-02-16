@@ -21,8 +21,7 @@ Stay informed about the weather and traffic conditions.
 See what events are coming up on your calendar.
 Stay up-to-date on the latest news.
 
-![IpadRunningShortcut](https://i.imgur.com/qflWnZz_d.webp?maxwidth=500&fidelity=grand" title="iPad Running Shortcut"><img src="https://i.imgur.com/qflWnZz_d.webp? "iPad RunningShortcut")
-
+![IpadRunningShortcut](https://i.imgur.com/qflWnZz_d.webp?maxwidth=500&fidelity=grand "iPad Running Shortcut")
                
                                                                                                                       
 
